@@ -1,3 +1,5 @@
+# Propiedad de Adrian Fdz.
+
 import os
 import ftplib
 import tarfile
